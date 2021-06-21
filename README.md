@@ -1,9 +1,6 @@
 # PayFlow
 > Organize seus boletos na palma da sua mão!
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Você nunca mais vai se esquecer de pagar os seus boletos, adicione todos os boletos que você pretende pagar e
 nós te lembramos de pagá-los 🥳
 
