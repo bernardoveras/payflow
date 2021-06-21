@@ -1,10 +1,6 @@
-# PayFlow
-> Organize seus boletos na palma da sua mão!
+![](.github/assets/Capa.png)
 
-Você nunca mais vai se esquecer de pagar os seus boletos, adicione todos os boletos que você pretende pagar e
-nós te lembramos de pagá-los 🥳
-
-![](../header.png)
+### Você nunca mais vai se esquecer de pagar os seus boletos, adicione todos os boletos que você pretende pagar e nós te lembramos de pagá-los 🥳
 
 ## Instalação
 
