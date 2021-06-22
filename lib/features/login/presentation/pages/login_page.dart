@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
 import 'package:payflow/features/login/presentation/components/social_button.dart';
 import 'package:payflow/features/login/presentation/controllers/login_controller.dart';
 import 'package:payflow/shared/components/codigo_de_barras_icon.dart';
-import 'package:payflow/shared/components/scale_on_tap.dart';
 import 'package:payflow/shared/style/text_styles.dart';
 import 'package:payflow/shared/style/theme.dart';
 import '../../../../shared/extensions/screen_util_extension.dart';
