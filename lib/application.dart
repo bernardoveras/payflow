@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-
+import 'shared/style/theme.dart';
 import 'config/routes.dart';
 
 class Application extends StatelessWidget {
@@ -20,6 +20,8 @@ class Application extends StatelessWidget {
           initialRoute: initialRoute,
           defaultTransition: Transition.cupertino,
           getPages: Routes.routes,
+          theme: AppTheme.light,
+          themeMode: ThemeMode.light,
           builder: (context, child) => GestureDetector(
             onTap: () => FocusManager.instance.primaryFocus?.unfocus(),
             behavior: HitTestBehavior.opaque,
